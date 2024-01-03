@@ -2,25 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Post-doctoral researcher at the <a href=https://www.epfl.ch/labs/bitbol-lab/>Bitbol Lab</a>, EPFL, Switzerland.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>AAB 146</p>
+    <p>EPFL, Route Cantonale</p>
+    <p>1015, Lausanne, Switzerland</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I dabble in protein language models and their applications to [protein-protein interactions and multimer structure prediction](https://www.biorxiv.org/content/10.1101/2023.08.14.553209),
+[de novo protein sequence generation](https://elifesciences.org/articles/79854), and [phylogenetics](https://www.nature.com/articles/s41467-022-34032-y).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have written and/or maintained several [open-source software libraries](/repositories) in topological machine learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My PhD was on [algebraic quantum field theory on curved spacetimes](https://www.youtube.com/watch?v=tieYcLniCd8), which is a general and mathematically rigorous approach to quantization on arbitrary spacetimes.

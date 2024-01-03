@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ulupo
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Bitbol-Lab/DiffPALM
+  - Bitbol-Lab/Iterative_masking
+  - Bitbol-Lab/Phylogeny-MSA-Transformer
+  - Steenroder/steenroder
+  - giotto-ai/giotto-tda
+  - giotto-ai/giotto-ph
+  - giotto-ai/pyflagser  

@@ -1,6 +1,29 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"PNAS":
+  url: https://www.pnas.org/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"eLife":
+  url: https://elifesciences.org/
+
+"Nat Commun":
+  url: https://www.nature.com/ncomms/
+
+"J. R. Soc. Interface":
+  url: https://royalsocietypublishing.org/journal/rsif
+
+"JMLR":
+  url: https://www.jmlr.org/
+
+"PMLR":
+  url: https://proceedings.mlr.press/
+
+"JACT":
+  url: https://link.springer.com/journal/41468
+
+"LMP":
+  url: https://link.springer.com/journal/11005
+
+"Class. Quantum Grav.":
+  url: https://iopscience.iop.org/journal/0264-9381
+
+"New J. Phys.":
+  url: https://iopscience.iop.org/journal/1367-2630
