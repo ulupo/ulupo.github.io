@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Post-doctoral researcher at the <a href=https://www.epfl.ch/labs/bitbol-lab/>Bitbol Lab</a>, EPFL, Switzerland.
+subtitle: Senior AI Scientist at <a href="https://www.absci.com">Absci</a>.  Previously a post-doctoral researcher at the <a href=https://www.epfl.ch/labs/bitbol-lab/>Bitbol Lab</a>, EPFL, Switzerland.
 
 profile:
   align: right
