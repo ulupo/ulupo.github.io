@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Post-doctoral researcher at the <a href=https://www.epfl.ch/labs/bitbol-lab/>Bitbol Lab</a>, EPFL, Switzerland.
 
