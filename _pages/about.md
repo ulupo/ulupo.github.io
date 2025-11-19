@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior AI Scientist at <a href="https://www.absci.com">Absci</a>, working on <i> de novo </i> design of antibody binders.
+subtitle: Senior AI Scientist at <a href="https://www.absci.com">Absci</a>, working on <i>de novo</i> design of antibody binders.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Previously a post-doctoral researcher at the <a href=https://www.epfl.ch/labs/bitbol-lab/>Bitbol Lab</a>, EPFL, Switzerland. There, I dabbled in protein language models and their applications to [protein-protein interactions and multimer structure prediction](https://www.biorxiv.org/content/10.1101/2023.08.14.553209),
+Previously a post-doctoral researcher at the <a href="https://www.epfl.ch/labs/bitbol-lab/">Bitbol Lab</a>, EPFL, Switzerland. There, I dabbled in protein language models and their applications to [protein-protein interactions and multimer structure prediction](https://www.biorxiv.org/content/10.1101/2023.08.14.553209),
 [de novo protein sequence generation](https://elifesciences.org/articles/79854), and [phylogenetics](https://www.nature.com/articles/s41467-022-34032-y).
 
 I have written and/or maintained several [open-source software libraries](/repositories) in topological machine learning.
